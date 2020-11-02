@@ -3,6 +3,149 @@ default:
   LICENSE:
     bytes: 1071
     sha256: c5101f851a9a623a96a2c585189da5d19c8f062baea1a7d102d1b0da890aea80
+  acoustic_model/base_graph/HCLG.fst.gz.part-00:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: 3ba39139f12585542e168f7dbab102fd3188db787bbb4af6898147d4e9f36a61
+  acoustic_model/base_graph/HCLG.fst.gz.part-01:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: 6ef6d5251a10f9e05fdcc4b0704e82cb85b1b1cf0a3d774e7b33c03f989eec3d
+  acoustic_model/base_graph/HCLG.fst.gz.part-02:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: efce2a20bc3d943bbb0489d5cb1038fb88d05274d0dda3c5c5fc139d5884073c
+  acoustic_model/base_graph/HCLG.fst.gz.part-03:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: 37edb02d63e45559c1a05203c1ace687fa5909362fbf7c8f4e182ce257c4f6f7
+  acoustic_model/base_graph/HCLG.fst.gz.part-04:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: b2c5f36a878435be9698aac9fd71fc0360165217212753f250e4d25db7f9b143
+  acoustic_model/base_graph/HCLG.fst.gz.part-05:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: 271825dd7f4dd60a162dc8c57b9852a8687fa115c3d65910c3a54a17f851d965
+  acoustic_model/base_graph/HCLG.fst.gz.part-06:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: 4a9c1ce68d249d77fa2b15a5fb7b7154b352fd732327a39338b2a7b08cf4bdbd
+  acoustic_model/base_graph/HCLG.fst.gz.part-07:
+    bytes: 22497041
+    file-name: HCLG.fst
+    sha256: 7acb6cc3bed6ac7cf727144fdf455c9f0d173d0c7b50fe375d5cce394cb6acfd
+  acoustic_model/base_graph/disambig_tid.int:
+    bytes: 90
+    sha256: 76299810a648862112fca2b7ac78bf0ef08538835a6e6cf5ebd32e5a03855a8a
+  acoustic_model/base_graph/num_pdfs:
+    bytes: 5
+    sha256: 097326d9ad88cc539dbcb73eff61f96b632889e62ac303aac8a4d3a50118c7cc
+  acoustic_model/base_graph/phones.txt:
+    bytes: 4686
+    sha256: 66f7dedf6b2d3e7fb50572b6a9a384b28fec5bbdd764fbe80e6d0d50a9d59ae8
+  acoustic_model/base_graph/phones/align_lexicon.int.gz:
+    bytes: 5142424
+    file-name: align_lexicon.int
+    sha256: 8f62bf14521449b984ab6db3fcd11e4f7f119f8de91cc3537f1cb61fe829e97e
+  acoustic_model/base_graph/phones/align_lexicon.txt.gz:
+    bytes: 5512022
+    file-name: align_lexicon.txt
+    sha256: 2ecf58ac8c1d2ea803f4a20d250b68f1a68c54a994707d1667f3ba2c7622c0af
+  acoustic_model/base_graph/phones/disambig.int:
+    bytes: 60
+    sha256: b8ece4aecbcf7ed4fcc77a3351dd306ae6c37f07fa08853f51ac4d717ace62a4
+  acoustic_model/base_graph/phones/disambig.txt:
+    bytes: 50
+    sha256: eb29739656acbc9ff8168ff6f7abd7e61af2198632332e294bb3642fa764f0da
+  acoustic_model/base_graph/phones/optional_silence.csl:
+    bytes: 2
+    sha256: 06e9d52c1720fca412803e3b07c4b228ff113e303f4c7ab94665319d832bbfb7
+  acoustic_model/base_graph/phones/optional_silence.int:
+    bytes: 2
+    sha256: 06e9d52c1720fca412803e3b07c4b228ff113e303f4c7ab94665319d832bbfb7
+  acoustic_model/base_graph/phones/optional_silence.txt:
+    bytes: 4
+    sha256: ebe5d1c9a1dc955e8b0e9d16062b2d6fede3ba741afdb9a6aec65810009bee11
+  acoustic_model/base_graph/phones/silence.csl:
+    bytes: 36
+    sha256: 1d406213cfb0a47a154d2c517d8b7a03128cc22892d217b0ead039795c32fad4
+  acoustic_model/base_graph/phones/word_boundary.int:
+    bytes: 5193
+    sha256: f53e9b737c191f6de6ec983956bc3da59353d139967f32b80bc4f226c4b42459
+  acoustic_model/base_graph/phones/word_boundary.txt:
+    bytes: 6209
+    sha256: aff101da1133e1b66e4fb7039fbd1112801a84f70f764ada17e38ba7c273562f
+  acoustic_model/base_graph/words.txt.gz:
+    bytes: 3061241
+    file-name: words.txt
+    sha256: ca6ff85f84fdb70da552ce67c4f6615bb21b8e84fb69f482cabf6e2067088eb3
+  acoustic_model/conf/mfcc.conf:
+    bytes: 44
+    sha256: 3ecadc6f8685df278bff3a8ddca0296368f39000010c66a2dda1eb82f8ab4a1d
+  acoustic_model/conf/mfcc_hires.conf:
+    bytes: 670
+    sha256: ad36416bce0ac9edfb0fdf9df61e128cf44d6e574cf0c681bf95f4677b3b5d72
+  acoustic_model/conf/online_cmvn.conf:
+    bytes: 108
+    sha256: 93fb4bfbc9915676e831f3cd0688c9616831ec56903dd606f972c1890cd23d97
+  acoustic_model/extractor/final.dubm:
+    bytes: 168048
+    sha256: 4127030b162bee0e8bbea64bf48bda4125ff360c9ea97d539deef1e646102bc0
+  acoustic_model/extractor/final.ie:
+    bytes: 19757687
+    sha256: 1a7ab12e79b8c136d0dda417df6370cb11dda1152c4a2d58cf20b2f021f450e7
+  acoustic_model/extractor/final.mat:
+    bytes: 44815
+    sha256: 92d6722e9fe07dc1c19eb86efad7142f41fe13761fc3547154e5c15e52745522
+  acoustic_model/extractor/global_cmvn.stats:
+    bytes: 1053
+    sha256: 71bd0be8b08bad66f720dc010a4c256691861031de1ade26ef91cf30505cf164
+  acoustic_model/extractor/online_cmvn.conf:
+    bytes: 108
+    sha256: 93fb4bfbc9915676e831f3cd0688c9616831ec56903dd606f972c1890cd23d97
+  acoustic_model/extractor/splice_opts:
+    bytes: 35
+    sha256: 0c7038d5c0dda2b307d27fc9f6aaef3eda2257bfdbce95f333e2077a5ff0a222
+  acoustic_model/ivectors_test_hires/conf/ivector_extractor.conf:
+    bytes: 475
+    sha256: b941fe67edd550a8cf2cc497f66fe094ed0a66a753f8923828c9c7b22defad96
+  acoustic_model/ivectors_test_hires/conf/online_cmvn.conf:
+    bytes: 108
+    sha256: 93fb4bfbc9915676e831f3cd0688c9616831ec56903dd606f972c1890cd23d97
+  acoustic_model/ivectors_test_hires/conf/splice.conf:
+    bytes: 35
+    sha256: 9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756
+  acoustic_model/model/cmvn_opts:
+    bytes: 37
+    sha256: c10fae89f7a8b627b95c324cb23e0730ebf6a5326bd3468b698b32587a664986
+  acoustic_model/model/den.fst:
+    bytes: 867662
+    sha256: 345ae9ea76c650aceb01d38d890a9d3a86562174810c51a66a2310e7c0041755
+  acoustic_model/model/final.mdl:
+    bytes: 9906189
+    sha256: 1b908c3a844ec51bbd2e1eee93c35d76f7811702e02c59b3b0dae647f2109307
+  acoustic_model/model/normalization.fst:
+    bytes: 1022750
+    sha256: 7d02499f42b4b7665dfb445ea142c150eea5a7971441ca8c30280a29aa0c801d
+  acoustic_model/model/tree:
+    bytes: 888122
+    sha256: 6c50e221a68b80d234f9724c2436d365c73c72d6c1d10b7da01231ee9aa26a12
+  acoustic_model/path.sh:
+    bytes: 0
+    sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  acoustic_model/phones/extra_questions.txt:
+    bytes: 461
+    sha256: 2d9b5d3af78fc49a2624ed1544eb6d271422a8d7fb5d1d607743b7ff3c02d455
+  acoustic_model/phones/nonsilence_phones.txt:
+    bytes: 449
+    sha256: 5a6bd7700ccd19e572dc8b1718d9f2955d243a3c83a88698049dc1518ef6bcdd
+  acoustic_model/phones/optional_silence.txt:
+    bytes: 4
+    sha256: ebe5d1c9a1dc955e8b0e9d16062b2d6fede3ba741afdb9a6aec65810009bee11
+  acoustic_model/phones/silence_phones.txt:
+    bytes: 12
+    sha256: 15f0e007c3c86a9ceef4d85bd4e8d5750e5ae8a888ed067fa5e8bd6302b30941
   base_dictionary.txt.gz:
     bytes: 3577381
     file-name: base_dictionary.txt
