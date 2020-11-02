@@ -1,0 +1,63 @@
+---
+default:
+  LICENSE:
+    bytes: 1071
+    sha256: c5101f851a9a623a96a2c585189da5d19c8f062baea1a7d102d1b0da890aea80
+  base_dictionary.txt.gz:
+    bytes: 3577381
+    file-name: base_dictionary.txt
+    sha256: f78f5b5f3804c9cfb2a3d124c8f33ac3cb0620d673f8d8e5b865c6ae92bec134
+  profile.yml:
+    bytes: 835
+    sha256: d6d97ddd51354304f9797f871b0a69c4f75589ac443121a7dd4b8be5ca269802
+  slot_programs/rhasspy/number:
+    bytes: 651
+    sha256: d1f10ccea552c2c9ba2a59dd69705f8e82545592c7db5ca7078b462ed9d08387
+  stop_words.txt:
+    bytes: 2178
+    sha256: 7450c1f7196c161d9a4e537de43f88bd55cdb64028c808e14587bd7a6ac7be3d
+
+# Files needed to guess word pronunciations
+grapheme-to-phoneme:
+  g2p.corpus.gz:
+    bytes: 1914511
+    file-name: g2p.corpus
+    sha256: 036a1318bc2a6e406afc4f9734571824779bda3bc072d75b5cc1250f8846a5b0
+  g2p.fst.gz:
+    bytes: 16610493
+    file-name: g2p.fst
+    sha256: bf76952ebf17ac6983c56f734169760a3512589ab4a9ba92e52596331691bd55
+
+# Files needed for open transcription (pre-built model)
+open-transcription:
+  base_language_model.txt.gz.part-00:
+    bytes: 26214400
+    file-name: base_language_model.txt
+    sha256: 3831dda3324dde86d9ebb5857bbd1895e5140c53365f6ddac6b81e9a9786fb7c
+  base_language_model.txt.gz.part-01:
+    bytes: 25749023
+    file-name: base_language_model.txt
+    sha256: efb8b559145bb7e5cacf48366737f2e1a24e3d59a831a225e212fc4d9557f299
+
+# Files needed for mixed language modeling (pre-built + custom)
+mixed-language-model:
+  base_language_model.fst.gz.part-00:
+    bytes: 26214400
+    file-name: base_language_model.fst
+    sha256: 29b2a945f08c2a89927ee881b70e5c9b03328f23b210550873f30d9cc7e254cf
+  base_language_model.fst.gz.part-01:
+    bytes: 26214400
+    file-name: base_language_model.fst
+    sha256: 704461bb5e505044c5f4f64e7258ff381e1b51284cb1c8c112efcf76c061f709
+
+# Files needed for text to speech
+text-to-speech:
+  espeak_phonemes.txt:
+    bytes: 170
+    sha256: d86e46532402da8fd66b91fe12d82bcd77306b52db398ed1f8de445aa92c9ebd
+
+# Sample sentences, etc.
+examples:
+  sentences.ini:
+    bytes: 317
+    sha256: 5942f84939e5a7ccc4f062726defae82628d5e6d899d485eeb8e77f9c44a2a20
