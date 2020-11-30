@@ -1,6 +1,6 @@
 ---
 name: "es_kaldi-rhasspy"
-version: "1.0"
+version: "1.1"
 
 language:
   name: "spanish"
@@ -15,11 +15,13 @@ speech-to-text:
   word-casing: "lower"
   kaldi:
     model-type: "nnet3"
+    base-graph-directory: !env "${profile_dir}/acoustic_model/base_graph"
 
 training:
   acoustic-model-type: "kaldi"
   kaldi:
     model-type: "nnet3"
+    language-model-type: "text_fst"
   large-files:
     - !env "${profile_dir}/base_dictionary.txt"
     - !env "${profile_dir}/base_language_model.txt"

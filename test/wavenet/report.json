@@ -127,7 +127,7 @@
       "entities": [],
       "text": "que tan frio esta",
       "raw_text": "que tan frio esta",
-      "recognize_seconds": 0.0002518179826438427,
+      "recognize_seconds": 0.000427938999791877,
       "tokens": [
         "que",
         "tan",
@@ -141,7 +141,7 @@
         "esta"
       ],
       "wav_seconds": 1.740375,
-      "transcribe_seconds": 0.4282406829879619,
+      "transcribe_seconds": 0.45422809699994104,
       "speech_confidence": null,
       "wav_name": "que_tan_frio_esta.wav",
       "expected_intent_name": "",
@@ -208,7 +208,7 @@
       ],
       "text": "encender la luz del garaje",
       "raw_text": "encender la luz del garaje",
-      "recognize_seconds": 0.00022129103308543563,
+      "recognize_seconds": 0.000351579000152924,
       "tokens": [
         "encender",
         "la",
@@ -224,7 +224,7 @@
         "garaje"
       ],
       "wav_seconds": 2.2876875,
-      "transcribe_seconds": 0.46379428601358086,
+      "transcribe_seconds": 0.5134365639999032,
       "speech_confidence": null,
       "wav_name": "encender_la_luz_del_garaje.wav",
       "expected_intent_name": "",
@@ -294,7 +294,7 @@
       ],
       "text": "apagar la lámpara de la sala de estar",
       "raw_text": "apagar la lámpara de la sala de estar",
-      "recognize_seconds": 0.00042811298044398427,
+      "recognize_seconds": 0.0002593579999938811,
       "tokens": [
         "apagar",
         "la",
@@ -316,7 +316,7 @@
         "estar"
       ],
       "wav_seconds": 2.9034375,
-      "transcribe_seconds": 0.49633884301874787,
+      "transcribe_seconds": 0.48920438499999364,
       "speech_confidence": null,
       "wav_name": "apagar_la_lámpara_de_la_sala_de_estar.wav",
       "expected_intent_name": "",
@@ -370,7 +370,7 @@
       "entities": [],
       "text": "está cerrada la puerta del garaje",
       "raw_text": "está cerrada la puerta del garaje",
-      "recognize_seconds": 0.00031976494938135147,
+      "recognize_seconds": 0.0004159610000442626,
       "tokens": [
         "está",
         "cerrada",
@@ -388,7 +388,7 @@
         "garaje"
       ],
       "wav_seconds": 2.6741875,
-      "transcribe_seconds": 0.5698993559926748,
+      "transcribe_seconds": 0.4660689250001724,
       "speech_confidence": null,
       "wav_name": "está_cerrada_la_puerta_del_garaje.wav",
       "expected_intent_name": "",
@@ -461,7 +461,7 @@
       ],
       "text": "apagar la luz del garaje",
       "raw_text": "apagar la luz del garaje",
-      "recognize_seconds": 0.00024819804821163416,
+      "recognize_seconds": 0.000303563999977996,
       "tokens": [
         "apagar",
         "la",
@@ -477,7 +477,7 @@
         "garaje"
       ],
       "wav_seconds": 2.0418125,
-      "transcribe_seconds": 0.5253083409625106,
+      "transcribe_seconds": 0.5250162600000294,
       "speech_confidence": null,
       "wav_name": "apagar_la_luz_del_garaje.wav",
       "expected_intent_name": "",
@@ -522,7 +522,7 @@
       "entities": [],
       "text": "está abierta la puerta del garaje",
       "raw_text": "está abierta la puerta del garaje",
-      "recognize_seconds": 0.00023803400108590722,
+      "recognize_seconds": 0.00031868099995335797,
       "tokens": [
         "está",
         "abierta",
@@ -540,7 +540,7 @@
         "garaje"
       ],
       "wav_seconds": 2.568,
-      "transcribe_seconds": 0.5556171460193582,
+      "transcribe_seconds": 0.5377056070001345,
       "speech_confidence": null,
       "wav_name": "está_abierta_la_puerta_del_garaje.wav",
       "expected_intent_name": "",
@@ -588,7 +588,7 @@
       "entities": [],
       "text": "que calor hace",
       "raw_text": "que calor hace",
-      "recognize_seconds": 0.00018294196343049407,
+      "recognize_seconds": 0.0001832210000429768,
       "tokens": [
         "que",
         "calor",
@@ -600,7 +600,7 @@
         "hace"
       ],
       "wav_seconds": 1.3485625,
-      "transcribe_seconds": 0.46358612400945276,
+      "transcribe_seconds": 0.47725762699997176,
       "speech_confidence": null,
       "wav_name": "que_calor_hace.wav",
       "expected_intent_name": "",
@@ -664,7 +664,7 @@
       ],
       "text": "enciende la lámpara de la sala",
       "raw_text": "enciende la lámpara de la sala",
-      "recognize_seconds": 0.00044499197974801064,
+      "recognize_seconds": 0.0004068760001700866,
       "tokens": [
         "enciende",
         "la",
@@ -682,7 +682,7 @@
         "sala"
       ],
       "wav_seconds": 2.4859375,
-      "transcribe_seconds": 0.5213241059682332,
+      "transcribe_seconds": 0.4947674179998103,
       "speech_confidence": null,
       "wav_name": "enciende_la_lámpara_de_la_sala.wav",
       "expected_intent_name": "",
@@ -730,7 +730,7 @@
       "entities": [],
       "text": "cuál es la temperatura",
       "raw_text": "cuál es la temperatura",
-      "recognize_seconds": 0.00022401998285204172,
+      "recognize_seconds": 0.00035255200009487453,
       "tokens": [
         "cuál",
         "es",
@@ -744,7 +744,7 @@
         "temperatura"
       ],
       "wav_seconds": 1.8536875,
-      "transcribe_seconds": 0.47098388901213184,
+      "transcribe_seconds": 0.502907420000156,
       "speech_confidence": null,
       "wav_name": "cuál_es_la_temperatura.wav",
       "expected_intent_name": "",
@@ -792,5 +792,5 @@
   "intent_accuracy": null,
   "entity_accuracy": null,
   "intent_entity_accuracy": null,
-  "average_transcription_speedup": 4.406743067085774
+  "average_transcription_speedup": 4.462316660883989
 }
